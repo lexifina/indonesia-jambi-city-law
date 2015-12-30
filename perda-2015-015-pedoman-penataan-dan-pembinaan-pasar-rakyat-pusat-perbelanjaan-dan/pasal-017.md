@@ -1,0 +1,28 @@
+# Pasal 17
+(1) Perjanjian kerjasama antara pemasok dengan toko swalayan harus memuat Persyaratan Perdagangan paling sedikit mengenai :
+a. pemasok hanya dapat dikenakan biaya-biaya yang berhubungan langsung dengan penjualan barang;
+b. besarnya biaya yang dikenakan sebagaimana dimaksud pada huruf a paling banyak 15% ( lima belas per seratus ) dari keseluruhan biaya-biaya trading terms diluar regular discounts, kecuali ditetapkan lain berdasarkan kesepakatan yang disetujui bersama antara Pemasok dengan Toko swalayan;
+c. pemasok dan Toko swalayan bersama-sama mambuat perencanaan promosi baik untuk barang baru maupun untuk barang lama untuk jangka waktu yang telah disepakati;
+d. penggunaan jasa distribusi Toko swalayan tidak boleh dipaksakan kepada Pemasok yang dapat mendistribusikan barangnya sendiri (waktu, mutu, harga barang, jumlah ) yang disepakati kedua belah pihak;
+e. pemasok dapat dikenakan denda apabila tidak memenuhi jumlah dan ketepatan waktu pasokan;
+f. toko swalayan dapat dikenakan denda apabila tidak memenuhi pembayaran tepat pada waktunya;
+Copyright : https://jdih.jambikota.go.id g. denda sebagaimana dimaksud pada huruf e dan f dikenakan sesuai kesepakatan kedua belah pihak;
+h. toko swalayan dapat mengembalikan barang yang baru dipasarkan kepadaPermasok tanpa dikenakan sanksi sepanjang setelah dievaluasi dalam jangka waktu 3 (tiga) bulan tidak memenuhi target yang telah ditetapkan bersama; dan i. toko swalayan harus memberikan informasi tertulis paling sedikit 3 (tiga) bulan sebelumnya kepada Pemasok apabila akan melakukan Stop Orde Delisting atau mengurangi jenis barang atau SKU ( Stock Keeping Unit ) Pemasok.
+(2) Biaya-biaya yang dapat dikenakan sebagaimana dimaksud pada ayat (1) huruf a berupa:
+a. potongan harga reguler ( regular discounts ) tidak berlaku bagi Pemasok yang memberlakukan sistem harga netto yang dipublikasikan secara transparan ke semua Toko swalayan dan disepakati dengan Toko swalayan;
+b. potongan harga tetap (fixed rebate) dilakukan secara periodik paling lama 3 (tiga) bulan paling banyak 1% (satu per seratus);
+c. jumlah dari potongan harga reguler (Regular Discount ) maupun potongan harga tetap (Fixed Rebate ) ditentukan berdasarkan presentase terhadap transaksi penjualan dari Pemasok ke Toko swalayan baik pada saat transaksi maupun secara periodik ;
+d. potongan harga khusus ( Conditional Rebate ) yang diberikan oleh Pemasok (nett Purchase) termaksuk retur barang, apabila Toko swalayan dapat mencapai atau melebihi target penjualan sesuai perjanjian dagang. Dengan kriteria penjualan:
+1. mencapai jumlah yang ditargetkan sesuai perjanjian sebesar 100% (seratus per seratus) mendapatkan potongan harga khusus paling banyak sebesar 1% (satu per seratus) 2. melebihi jumlah yang di targetkan sebesar 101% (seratus satu per seratus) sampai dengan 115% (seratus lima belas per seratus), kelebihannya mendapatkan potongan harga khusus paling banyak sebesar 5% (lima per seratus); atau 3. melebihi jumlah yang ditargetkan atas 115% (seratus lima belas per seratus), kelebihannya mendapatkan potongan harga khusus paling banyak sebesar 10% (sepuluh per seratus).
+e. potongan harga promosi ( promotion discount ) diberikan kepada pelanggan atau konsumen akhir dalam waktu yang dibatasi sesuai kesepakatanantara Toko swalayan dengan Pemasok;
+f. biaya promosi ( Promotion Cost ) yang dibebankan kepada Pamasok oleh Toko swalayan sesuai kesepakatan kedua belah pihak yang terdiri dari:
+1. biaya promosi melalui media massa atau cetakan seperti brosur atau mailer, yang ditetapkan secara transparan dan wajar sesuai dengan tarif dari media dan biaya-biaya kreativitas lainnya 2. biaya promosi pada toko setempat ( in-store promotion ) dikenakan hanya untuk area promosi di luar display/pajangan reguler toko seperti Floor display , gondola promosi, block shelving , setempat kasir ( check out counter), wing gondola, papan reklame di dalam dan di luar toko, dan tempat lain yang di gunakan untuk tempat promosi;
+Copyright : https://jdih.jambikota.go.id 3. biaya promosi untuk mempromosikan barang milik Pamasok seperti sampling, demo barang, hadiah games, dan lain-lain;
+4. biaya yang dikurangkan atau dipotongkan atas aktivitas Promosi dilakukan paling lama 3 (tiga) bulan setelah acara berdasarkan konfirmasi kedua belah pihak ; dan 5. biaya promosi yang belum digunakan harus dimanfaatkan untuk aktivitas promosi lainnya baik pada periode yang bersangkutan maupun untuk periode yang berikutnya dalam jangka waktu 3 (tiga) bulan sesuai kesepakatan kedua belah pihak;
+g. biaya yang digunakan untuk promosi barang baru sudah termasuk di dalam biaya promosi sebagaimana dimaksud pada huruf f;
+h. biaya-biaya lain di luar biaya sebagaimana dimaksud pada huruf f tidakdiperkenakan untuk dibebankan kepada Pemasok;
+i. biaya administrasi pendaftaran barang (listing fee) hanya untuk barang baru dengan besaran biaya:
+1. untuk Hypermaket paling banyak Rp. 150.000,- (seratus lima puluh ribu rupiah) untuk setiap jenis barang setiap gerai dengan biaya paling banyak Rp. 10.000.000,- (sepuluh juta rupiah) untuk setiap jenis barang di semua gerai;
+2. untuk supermarket paling banyak Rp. 75.000,- (tujuh puluh lima ribu rupiah) untuk setiap jenis barang setiap gerai dengan biaya paling banyak Rp. 10.000.000,- (sepuluh juta rupiah) untuk setiap jenis barang di semua gerai; dan 3. untuk Minimarket yang paling banyak Rp. 5.000.- (lima ribu rupiah) untuk setiap jenis barang setiap gerai dengan biaya paling banyak Rp.
+20.000.000,- (dua puluh juta rupiah) untuk setiap jenis barang di semua gerai;
+j. perubahan biaya administrasi pendaftaran barang sebagaimana dimaksud pada huruf i dapat di sesuaikan setiap tahun berdasarkan perkembangan inflasi.

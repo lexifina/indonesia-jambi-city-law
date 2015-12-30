@@ -1,0 +1,9 @@
+# Pasal 11
+(1) Tata Cara Permohonan Rekomendasi hasil Analisa Kondisi Sosial Ekonomi Masyarakat adalah sebagai berikut :
+a. pemohon mengajukan surat permohonan disertai dengan hasil analisa kondisisosial ekonomi masyarakat yang telah disusun oleh badan/lembaga independen yang kompeten sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 9 kepada Kepala Dinas Perindustrian dan Perdagangan;
+b. Kepala Dinas Perindustrian dan Perdagangan menindaklanjuti permohonan dengan meneruskan kepada Bidang Bina Usaha Perdagangan pada Dinas Perindustrian dan Perdagangan yang membidangi;
+c. Kepala Bidang yang membidangi paling lama dalam jangka waktu 7 (tujuh) hari kerja menjadwalkan rapat Kajian Teknis Analisa Kondisi Sosial Ekonomi Masyarakat bersama dengan Tim Penilaian Hasil Analisa Kondisi Sosial Ekonomi Masyarakat Setempat;
+d. dalam rapat sebagaimana dimaksud pada huruf c Tim Penilaian Hasil Analisa Kondisi Sosial Ekonomi Masyarakat Setempat menilai kesesuaian antara dokumen analisa kondisi sosial ekonomi masyarakat dengan melakukan peninjauan lokasi;
+e. hasil Analisa Kondisi Sosial Ekonomi Masyarakat dituangkan dalam suatu berita acara Tim Penilaian Hasil Analisa Kondisi Sosial Ekonomi Masyarakat Setempat yang juga mencantumkan kesimpulan hasil penilaian berupa pembolehan/larangan mendirikan Toko Swalayan pada lokasi yang bersangkutan;
+f. berdasarkan Berita Acara sebagaimana dimaksud pada huruf e, Tim Penilaian Hasil Analisa Kondisi Sosial Ekonomi Masyarakat Setempat membuat surat rekomendasi dan selanjutnya disampaikan kepada Walikota melalui Kepala Dinas Perindustrian dan Perdagangan sebagai pertimbangan untuk dapat diterbitkan/tidak diterbitkannya IUTS.
+(2) Jangka waktu penyelesaian permohonan penilaian Dokumen Analisa Kondisi Sosial Ekonomi Masyarakat sebagaimana dimaksud pada ayat (1) paling lama 15 (lima belas) hari kerja sejak permohonan diterima.
