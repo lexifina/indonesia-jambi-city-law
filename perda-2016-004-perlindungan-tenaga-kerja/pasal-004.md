@@ -1,0 +1,2 @@
+# Pasal 4
+Setiap tenaga kerja memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan .
