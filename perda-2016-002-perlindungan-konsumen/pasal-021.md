@@ -1,0 +1,2 @@
+# Pasal 21
+Pelaku Usaha yang menolak dan atau tidak memberi tanggapan dan atau tidak memenuhi ganti rugi atas tuntutan konsumen sebagaimana dimaksud dalam Pasal 18 ayat (1), ayat (2), ayat (3), dan ayat (4) dapat digugat melalui Lembaga Perlindungan Konsumen Swadaya Masyarakat (LPKSM) dan atau Badan Penyelesaian Sengketa Konsumen (BPSK) Propinsi dan atau kota atau mengajukan ke Badan Peradilan di tempat kedudukan konsumen.
