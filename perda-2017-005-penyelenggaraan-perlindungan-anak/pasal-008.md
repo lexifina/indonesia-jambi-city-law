@@ -1,0 +1,2 @@
+# Pasal 8
+Pemerintah Daerah melakukan upaya pemenuhan hak atas identitas dan hak perlindungan identitas sebagaimana dimaksud dalam Pasal 7 huruf a dan huruf b dengan menjamin penyelenggaraan pembuatan akta kelahiran tanpa dipungut biaya dan melakukan pendekatan layanan hingga ke tingkat kelurahan maupun fasilitas kesehatan yang tersedia fasilitas layanan bagi ibu melahirkan (Puskesmas Rawat Inap/Rumah Sakit/Klinik Bersalin) sesuai dengan kemampuan Daerah, dalam rangka perwujudan seluruh penduduk memiliki akta kelahiran.
