@@ -1,0 +1,11 @@
+# Pasal 10
+(1) Sebelum menjalankan jabatannya, calon Pejabat PPNS wajib dilantik dan mengucapkan sumpah atau menyatakan janji menurut agamanya dihadapan pejabat yang ditunjuk.
+(2) Pelantikan dan pengambilan sumpah atau janji bagi Pejabat PPNS dilaksanakan dalam waktu paling lama 30 ( tiga puluh ) hari terhitung sejak tanggal Keputusan Menteri Hukum dan Hak Asasi Manusia mengenai pengangkatan Pejabat PPNS diterima oleh Walikota atau SKPD yang membawahi Pegawai Negeri Sipil tersebut.
+(3) Pelantikan dan pengambilan sumpah atau janji bagi Pejabat PPNS sebagaimana dimaksud pada ayat (2) dilakukan oleh Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia atau pejabat yag ditunjuk di Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia.
+(4) Lafal sumpah atau janji Pejabat PPNS sebagaimana dimaksud pada ayat (2) berbunyi sebagai berikut :
+“Demi Allah, saya bersumpah/berjanji :
+Bahwa saya, untuk diangkat menjadi Pejabat Penyidik Pegawai Negeri Sipil, akan setia dan taat sepenuhnya pada Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, dan Negara Kesatuan Republik Indonesia serta pemerintah yang sah;
+Bahwa saya, akan menaati segala peraturan perundang-undangan yang berlaku dan melaksanakan tugas kedinasan Pejabat Penyidik Pegawai Negeri Sipil yang dipercayakan kepada saya dengan penuh pengabdian, kesadaran, dan tanggung jawab;
+Bahwa saya, akan senantiasa menjunjung tinggi kehormatan negara, pemerintah dan martabat Pejabat Penyidik Pegawai Negeri Sipil, serta akan senantiasa mengutamakan kepentingan masyarakat, bangsa dan negara daripada kepentingan saya sendiri, seseorang atau golongan;
+Bahwa saya, akan bekerja dengan jujur, tertib, cermat dan bersemangat untuk kepentingan bangsa dan Negara Kesatuan Republik Indonesia dan tidak akan menerima pemberian berupa hadiah dan/atau janji-janji baik langsung maupun tidak langsung yang ada kaitannya dengan pekerjaan saya”.
+(5) Berita acara pelantikan dan pengambilan sumpah atau janji yang dilakukan oleh Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia wajib dilaporkan kepada Menteri Hukum dan Hak Asasi Manusia dalam waktu paling lama 30 ( tiga puluh ) hari terhitung sejak tanggal pelantikan dan pengambilan sumpah atau janji dilaksanakan.
