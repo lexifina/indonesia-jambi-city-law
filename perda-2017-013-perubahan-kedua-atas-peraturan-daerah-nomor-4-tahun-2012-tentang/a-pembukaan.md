@@ -1,0 +1,24 @@
+# Pembukaan
+WALIKOTA JAMBI PROVINSI JAMBI
+PERATURAN DAERAH KOTA JAMBI NOMOR 13 TAHUN 2017
+TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH NOMOR 4 TAHUN 2012 TENTANG RETRIBUSI PERIZINAN TERTENTU
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+WALIKOTA JAMBI,
+Menimbang : a. bahwa untuk mewujudkan pelaksanaan pungutan retribusi daerah dengan prinsip yang baik dan tidak menyebabkan ekonomi biaya tinggi, perlu dilakukan peninjauan kembali tarif retribusi dengan memperhatikan indeks harga dan perkembangan retribusi;
+b. bahwa dengan telah diterbitkannya Peraturan Daerah Kota Jambi Nomor 14 Tahun 2016 Tentang Pembentukan Dan Susunan Organisasi Perangkat Daerah, maka terhadap nomenklatur perangkat daerah sebagaimana ditetapkan dalam Peraturan Daerah Nomor 4 Tahun 2012 tentang Retribusi Perizinan Tertentu sebagaimana telah diubah dengan Peraturan Daerah Kota Jambi Nomor 19 Tahun 2015 Tentang Perubahan Atas Peraturan Daerah Kota Jambi Nomor 4 Tahun 2012 Tentang Retribusi Perizinan Tertentu, perlu dilakukan penyesuaian;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perubahan Kedua Atas Peraturan Daerah Nomor 4 Tahun 2012 tentang Retribusi Perizinan Tertentu.
+Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia tahun 1945;
+2. Undang-Undang Nomor 9 Tahun 1956 tentang Pembentukan Propinsi Otonom kota beasr dalam lingkungan daerah propinsi sumatera tengah (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 20);
+3. Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 5049);
+Copyright : https://jdih.jambikota.go.id 4. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Nomor 5587), sebagaimana telah diubah beberapa kali terakhir dengan Undang-undang Republik Indonesia Nomor 9 Tahun 2015 tentang perubahan kedua atas Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);
+5. Peraturan Pemerintah Nomor 69 Tahun 2010 tentang Tata Cara Pemberian dan Pemanfaatan Insentif Pemungutan Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 119, Tambahan Lembaran Negara Republik Indonesia Nomor 5161);
+6. Peraturan Pemerinah Nomor 18 Tahun 2016 tentang Perangkat Daerah (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 114, Tambahan Lembaran Negara Republik Indonesia Nomor 5887);
+7. Peraturan Menteri Pekerjaan Umum Nomor 24/PRT/M/2007 tentang Pedoman Teknis Izin Mendirikan Bangunan Gedung;
+8. Peraturan Daerah Kota Jambi Nomor 14 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah (Lembaran Daerah Kota Jambi Tahun 2016 Nomor 14);
+9. Peraturan Daerah Kota Jambi Nomor 4 Tahun 2012 Tentang Retribusi Perizinan Tertentu (Lembaran Daerah Kota Jambi Tahun 2012 Nomor 4);
+9. Peraturan Daerah Kota Jambi Nomor 10 Tahun 2015 Tentang Perubahan Atas Peraturan Daerah Kota Jambi Nomor 4 Tahun 2012 Tentang Retribusi Perizinan Tertentu (Lembaran Daerah Kota Jambi Tahun 2012 Nomor 4).
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA JAMBI
+dan WALIKOTA JAMBI
+MEMUTUSKAN :
+Menetapkan : PERATURAN DAERAH TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH NOMOR 4 TAHUN 2012 TENTANG RETRIBUSI PERIZINAN TERTENTU.
