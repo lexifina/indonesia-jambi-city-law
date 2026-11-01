@@ -1,0 +1,46 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2015-006-perubahan-atas-peraturan-daerah-nomor-2-tahun-2008-tentang",
+    "perda-2015-015-pedoman-penataan-dan-pembinaan-pasar-rakyat-pusat-perbelanjaan-dan",
+    "perda-2016-002-perlindungan-konsumen",
+    "perda-2016-003-pengendalian-pencemaran-dan-kerusakan-lingkungan-hidup",
+    "perda-2016-004-perlindungan-tenaga-kerja",
+    "perda-2016-006-perubahan-atas-peraturan-daerah-nomor-10-tahun-2010-tentang-bea",
+    "perda-2016-008-perubahan-atas-peraturan-daerah-nomor-4-tahun-2013-tentang-pajak-bumi",
+    "perda-2016-010-perubahan-atas-peraturan-daerah-kota-jambi-nomor-7-tahun-2007-tentang",
+    "perda-2016-012-penataan-dan-pemberdayaan-pedagang-kaki-lima",
+    "perda-2016-013-penyertaan-modal-daerah-kepada-perusahaan-daerah-air-minum-tirta",
+    "perda-2017-001-peningkatan-sarana-dan-prasarana-olah-raga-di-kota-jambi",
+    "perda-2017-002-pencegahan-dan-penanggulangan-terhadap-penyalahgunaan-narkotika",
+    "perda-2017-003-kawasan-tanpa-rokok",
+    "perda-2017-004-penyelenggaraan-lalu-lintas-dan-angkutan-jalan-di-kota-jambi",
+    "perda-2017-005-penyelenggaraan-perlindungan-anak",
+    "perda-2017-006-pejabat-penyidik-pegawai-negeri-sipil",
+    "perda-2017-013-perubahan-kedua-atas-peraturan-daerah-nomor-4-tahun-2012-tentang",
+    "perda-2017-014-pelatihan-dan-produktivitas-tenaga-kerja",
+    "perda-2018-003-perubahan-atas-peraturan-daerah-nomor-44-tahun-2002-tentang-izin",
+    "perda-2019-002-perlindungan-dan-pemberdayaan-bagi-lanjut-usia-dan-penyandang",
+    "perda-2019-004-perubahan-kedua-atas-peraturan-daerah-nomor-4-tahun-2013-tentang",
+    "perda-2019-005-perubahan-kedua-atas-peraturan-daerah-nomor-10-tahun-2010-tentang-bea",
+    "perda-2019-006-perubahan-kedua-atas-peraturan-daerah-nomor-5-tahun-2011-tentang",
+    "perda-2020-001-pembentukan-badan-usaha-milik-daerah-dalam-bentuk-perusahaan",
+    "perda-2020-003-perusahaan-umum-daerah-air-minum-tirta-mayang-kota-jambi"
+   ],
+   "sha256": "cb561e8d5dcbc37150e6e049b557490de67650e6e938a3782a6aaba2a5953164"
+  },
+  "20-perda-02.json": {
+   "acts": [
+    "perda-2020-007-perubahan-ketiga-atas-peraturan-daerah-kota-jambi-nomor-3-tahun-2012",
+    "perda-2021-002-penyelenggaraan-kepemudaan-dan-keolahragaan",
+    "perda-2022-002-penambahan-penyertaan-modal-pemerintah-kota-jambi-pada-perseroan",
+    "perda-2024-004-grand-design-pembangunan-kependudukan-kota-jambi-tahun-2023-2035",
+    "perda-2024-009-perubahan-atas-peraturan-daerah-kota-jambi-nomor-2-tahun-2022-tentang",
+    "perda-2025-005-pembentukan-dan-susunan-perangkat-daerah"
+   ],
+   "sha256": "1e90ab5c9bd06b3bc036e8d97b5df6ad7bfc3fe539820e1ad6031d62554ce44d"
+  }
+ },
+ "schema": 1
+}
