@@ -1,0 +1,9 @@
+{
+  "path": "id-ja-jambi",
+  "code": "ID-JA-JAMBI",
+  "name": "Jambi City (Indonesia)",
+  "level": "municipality",
+  "parent": "id-ja",
+  "repo": "https://github.com/lexifina/indonesia-jambi-city-law",
+  "build": "built: Peraturan Daerah (Perda) of Kota Jambi as enacted, Indonesian text, from JDIH Kota Jambi (Bagian Hukum Sekretariat Daerah Kota Jambi)"
+}
